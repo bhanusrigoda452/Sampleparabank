@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-13T13:19:00 IST" name="Default suite" finished-at="2023-09-13T13:19:21 IST" duration-ms="21124">
+  <suite started-at="2023-09-13T17:39:14 IST" name="Suite" finished-at="2023-09-13T17:40:04 IST" duration-ms="49334">
     <groups>
     </groups>
-    <test started-at="2023-09-13T13:19:00 IST" name="Default test" finished-at="2023-09-13T13:19:21 IST" duration-ms="21124">
+    <test started-at="2023-09-13T17:39:14 IST" name="Test" finished-at="2023-09-13T17:40:04 IST" duration-ms="49334">
       <class name="testoprations.Login">
-        <test-method signature="test01()[pri:0, instance:testoprations.Login@6892b3b6]" started-at="2023-09-13T13:19:00 IST" name="test01" finished-at="2023-09-13T13:19:21 IST" duration-ms="21076" status="PASS">
+        <test-method signature="test01()[pri:0, instance:testoprations.Login@5d0bf09b]" started-at="2023-09-13T17:39:14 IST" name="test01" finished-at="2023-09-13T17:40:04 IST" duration-ms="49287" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test01 -->
       </class> <!-- testoprations.Login -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
