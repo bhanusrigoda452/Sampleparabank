@@ -43,7 +43,8 @@ public class Login {
 	//action.clickAndHold(draggable).moveToElement(droppable).release(droppable).perform();
 
 	System.out.println(droppable.getText());
-
+	
+	System.out.println("complted");
 	Thread.sleep(2000);
 
 	driver.quit();
